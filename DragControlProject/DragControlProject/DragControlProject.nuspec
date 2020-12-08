@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>DragControl</id>
+    <version>1.0.1</version>
+    <title>DragControl</title>
+    <authors>HagayElbaz</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	  <license type="expression">MIT</license>
+	  <description>This package allows you to drag a control on the screen, with the option to launch an event when it reaches the edge, or other controls.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>copyright @2020</copyright>
+	<projectUrl> https://github.com/hagayelbaz/DragControl </projectUrl>
+    <tags>DragControl  Drag WindowsForm winform Control AllowDrag DragAble Movment</tags>
+  </metadata>
+</package>
